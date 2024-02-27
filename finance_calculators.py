@@ -1,15 +1,5 @@
 import math
 
-#create investment calculator and a home loan repayment calculator
-#give the user a choice of which calculator to use
-#make input valid regardless of upper or lower case letters
-#if user doesn't type a valid input show error message
-#if user selects investment ask amount to deposit, interest rate, number of years, simple or compound
-#print out the answers
-#if the user selects bond ask present value, interest rate, number of months of repayment
-#calculate how much the user will have to repay each month and print the answer
-
-
 print("investment" + " - to calculate the amount of your interest you'll earn on your investment")
 print("bond" + "\t   - to calculate the amount you'll have to pay on a home loan")
 #User makes selection of investment or bond
