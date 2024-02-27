@@ -1,6 +1,10 @@
 import math
 
-print("investment" + " - to calculate the amount of your interest you'll earn on your investment")
+print("-" * 60)
+print("\n\t   WELCOME TO CB'S FINANCE CALCULATOR\n")
+print("-" * 60)
+
+print("\ninvestment" + " - to calculate the amount of your interest you'll earn on your investment")
 print("bond" + "\t   - to calculate the amount you'll have to pay on a home loan")
 #User makes selection of investment or bond
 user_selection = input("\nEnter either 'investment' or 'bond' from the menu above to proceed:\n").lower()
